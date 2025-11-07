@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+  <livre>
+    <titre>Les Soleils des Indépendances</titre>
+    <auteur>Ahmadou Kourouma</auteur>
+    <annee>1968</annee>
+    <genre>Roman politique</genre>
+    
+  </livre>
+  <livre>
+    <titre>Allah n&apos;est pas obligé</titre>
+    <auteur>Ahmadou Kourouma</auteur>
+    <annee>2000</annee>
+    <genre>Roman engagé</genre>
+  </livre>
+  <livre>
+    <titre>Aya de Yopougon</titre>
+    <auteur>Marguerite Abouet</auteur>
+    <annee>2005</annee>
+    <genre>Roman graphique</genre>
+  </livre>
+  <livre>
+    <titre>Je remercie la nuit</titre>
+    <auteur>Véronique Tadjo</auteur>
+    <annee>2005</annee>
+    <genre>Poésie</genre>
+  </livre>
+  <livre>
+    <titre>Les frasques d&apos;Ébinto</titre>
+    <auteur>Amadou Koné</auteur>
+    <annee>1980</annee>
+    <genre>Roman initiatique</genre>
+  </livre>
+  <livre>
+    <titre>On se chamaille pour un siège</titre>
+    <auteur>Hyacinthe Kacou</auteur>
+    <annee>2007</annee>
+    <genre>Théâtre satirique</genre>
+  </livre>
+</catalogue>
