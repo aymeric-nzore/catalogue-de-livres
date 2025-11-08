@@ -1,0 +1,40 @@
+{
+  "livres": [
+    {
+      "titre": "Les Soleils des Indépendances",
+      "auteur": "Ahmadou Kourouma",
+      "annee": 1968,
+      "genre": "Roman politique"
+    },
+    {
+      "titre": "Allah n'est pas obligé",
+      "auteur": "Ahmadou Kourouma",
+      "annee": 2000,
+      "genre": "Roman engagé"
+    },
+    {
+      "titre": "Aya de Yopougon",
+      "auteur": "Marguerite Abouet",
+      "annee": 2005,
+      "genre": "Roman graphique"
+    },
+    {
+      "titre": "Je remercie la nuit",
+      "auteur": "Véronique Tadjo",
+      "annee": 2005,
+      "genre": "Poésie"
+    },
+    {
+      "titre": "Les frasques d'Ébinto",
+      "auteur": "Amadou Koné",
+      "annee": 1980,
+      "genre": "Roman initiatique"
+    },
+    {
+      "titre": "On se chamaille pour un siège",
+      "auteur": "Hyacinthe Kacou",
+      "annee": 2007,
+      "genre": "Théâtre satirique"
+    }
+  ]
+}
